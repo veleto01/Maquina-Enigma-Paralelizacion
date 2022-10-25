@@ -1,0 +1,6 @@
+﻿  LAB.cpp
+M:\UNI\URJC\3º\CAP\LAB\LAB.cpp(69,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+M:\UNI\URJC\3º\CAP\LAB\LAB.cpp(136,14): warning C4101: 'request': variable local sin referencia
+M:\UNI\URJC\3º\CAP\LAB\LAB.cpp(135,13): warning C4101: 'status': variable local sin referencia
+M:\UNI\URJC\3º\CAP\LAB\LAB.cpp(85): warning C4172: devolución de dirección de la variable local o temporal: rawData
+  LAB.vcxproj -> M:\UNI\URJC\3º\CAP\LAB\Debug\LAB.exe
